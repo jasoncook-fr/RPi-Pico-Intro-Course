@@ -1,12 +1,9 @@
 ## SSD1306 OLED Display example
 **Send messages and sensor date to an I2C driven ssd1306 OLED display** <br />
-<br />
 
 **You must upload the _ssd1306.py_ module to the board in order to use the included code examples**<br />
-<br />
 
 The _ssd1306.py_ module was written by Alex Newton and published at the following link: [how2electronics-ssd1306](https://how2electronics.com/interfacing-ssd1306-oled-display-with-raspberry-pi-pico/) <br />
-<br />
 
 ### To test if we have a functional connection with the display (or any i2c device), the following lines will do the trick
 
