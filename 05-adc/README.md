@@ -9,7 +9,7 @@ _adc-fade-led.py_ is included as an example of applying the raw data to affect t
 
 <br />
 
-__ADC is short for *Analog to Digital Coversion*__
+__ADC is short for *Analog to Digital Conversion*__
 
 A potentiometer is an analog device, more precisely it is a variable resistor. <br /> 
 As with other analog sensors, we may introduce a potentiometer to a microcontroller to obtain a range of values exceeding only 1 or 0.
